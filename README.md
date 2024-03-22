@@ -1,2 +1,2 @@
 # Computer-Networking-Project
-A computer networking project using Cisco Packet Tracer, simulating a real-world network environment.
+Utilized Cisco Packet Tracer to create a complex network infrastructure, simulating real-world scenarios to enhance security measures.
